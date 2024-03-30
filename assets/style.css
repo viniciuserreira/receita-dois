@@ -101,3 +101,19 @@ hr{
     font-weight: 700;
 }
 
+.informacoes p{
+    margin-bottom: 24px;
+}
+
+th, td{
+    border-bottom: 1px solid #e3ddd7;
+}
+
+table{
+    width: 100%;
+}
+
+tr{
+    display: flex;
+}
+
