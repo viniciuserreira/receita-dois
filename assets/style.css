@@ -3,3 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #f3e5d7;
+}
+
+body > div{
+    background-color: #fff;
+    max-width: 736px;
+    margin-inline: auto;
+}
+
+div img{
+    width: 100%;
+}
+
+h1, h2{
+    font-family: 'lora', serif;
+}
